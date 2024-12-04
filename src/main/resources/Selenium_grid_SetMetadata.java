@@ -1,4 +1,4 @@
-public class Selenium_grid_SetMetadata {
+public class Selenium_grid_SetMetadata07 {
         WebDriver driver;
 
         @Test
